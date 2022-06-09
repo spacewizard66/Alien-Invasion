@@ -11,6 +11,10 @@ A GUI Game written in Python implementing PyGame. Inspired by the classic arcade
 Space invaders is originally an arcade game released in 1978. It is a 2D shooter, the first of its genre. 
 The goal, as for most of the arcade game of this time, is to obtain the highest score by destroying continuously the incoming aliens.
 
+
+![alien-invasion](https://user-images.githubusercontent.com/70931763/172803926-382e3807-3020-40e1-a0e4-ad16f6849d43.gif)
+
+
 ## Requirements
 
 Python >= 3.7.0
